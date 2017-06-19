@@ -4,7 +4,7 @@ cross-compile is my clumsy attempt at creating a cross-compiler for a Debian bas
 from start. The script is a trail attempt and is likely to cause breakdown of a working machine, as such
 its highly recommended that you execute the script within an isolated environment.
 
-The plan is to use this cross-compiler as base for planned future projects.
+The plan is to use this cross-compiler as base for planned future projects. Currently it is only to serve its purpose i.e. its a quick and dirty script restricted in its functionalities; might make it more robust in future.
 
 ## How it works
 
