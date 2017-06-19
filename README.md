@@ -22,9 +22,6 @@ Credits to the blogpost and wiki referred in the later section.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This list is released into the public domain.
-
-
 ## References
 
 1. [How to build a gcc cross compiler](http://preshing.com/20141119/how-to-build-a-gcc-cross-compiler/) Preshing of Programming Blog post
